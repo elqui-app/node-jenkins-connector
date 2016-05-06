@@ -5,7 +5,7 @@ Java must be installed
 
 
 
-    var jenkinsSlave = require('node-jenkins-connector');
+    var jenkinsSlave = require('node-jenkins-slave');
     var options = {
        name: <string>,          // name of the node in jenkins 
        secret: <string>,        // secret key in jenkins
