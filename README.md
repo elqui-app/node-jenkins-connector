@@ -1,6 +1,13 @@
 # node-jenkins-slave
 Facilitate the connection to a jenkin server and the disconnection
 
+## Installation
+
+    npm install node-jenkins-slave --save
+
+
+## How to use
+
 Java must be installed
 
 
