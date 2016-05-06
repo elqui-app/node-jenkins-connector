@@ -1,0 +1,27 @@
+{
+  "name": "node-jenkins-slave",
+  "version": "0.1.0",
+  "description": "Facilitator jenkins slave",
+  "main": "jenkins-slave.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elqui-app/node-jenkins-slave.git"
+  },
+  "keywords": [
+    "jenkins",
+    "slave",
+    "nodejs"
+  ],
+  "author": "Thibault Friedrich <tf@elqui.fr>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/elqui-app/node-jenkins-slave/issues"
+  },
+  "homepage": "https://github.com/elqui-app/node-jenkins-slave#readme"
+}
